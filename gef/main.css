@@ -1,0 +1,30 @@
+*{
+
+
+}
+
+p {
+	font-size: 30px;
+	color: #4e1058;
+	font-family: Impact;
+	text-align: center;
+	}
+	body {
+		background-image: url(8.jpg);
+	}
+
+	img{
+		height: auto;
+		width: 80%;
+		max-width: 800px;
+		min-width: 100px;
+		margin: auto;
+		display: block;
+	}
+
+
+
+	}
+a:hover {
+	color: red;
+	}
